@@ -39,6 +39,3 @@ Pour le déploiement de ce service, nous avons utiliser l'image docker de keyclo
 
 **NB** : Sur heroku vous pouvez autoriser le déploiement automatique  qui permet de déployer a chaque fois que vous faites un push sur github.
 
-
-contact me www.mmdiago.com for more explication
-*for more informations*
